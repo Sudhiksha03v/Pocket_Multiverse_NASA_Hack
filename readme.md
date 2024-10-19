@@ -1,6 +1,6 @@
 # 3D Solar System in THREE.js
 
-Welcome to the **3D Solar System** project, a dynamic and interactive simulation of our solar system created using THREE.js and the Vite framework. This project showcases various advanced features and effects to provide an immersive experience of the celestial bodies in our solar system. The project is fully created by Karol Fryc.
+A **3D Solar System** simulation project, a dynamic and interactive simulation of our solar system created using THREE.js and the Vite framework. This project showcases various advanced features and effects to provide an immersive experience of the celestial bodies in our solar system. 
 
 Overview available at: https://w21030911.nuwebspace.co.uk/graphics/assessment/
 
